@@ -105,15 +105,3 @@ Below are some example commands to illustrate usage:
    - All resulting URLs are printed to the console.
    - If `-o/--output` is used, they are also written line-by-line to the specified file.
 
-## Contributing
-
-Contributions, bug reports, and feature requests are welcome. Feel free to open an [issue](https://github.com/your-repo) or submit a pull request.
-
-## License
-
-This project is provided for **educational and testing** purposes only. Use responsibly and ensure you have **explicit permission** before performing any tests on services or infrastructure.  
-
----
-
-**Disclaimer**: The author(s) of this project assume **no liability** and are **not responsible** for any misuse or damage caused by this tool.  
-Use responsibly and ethically, and consult your organization's policy and applicable laws.
